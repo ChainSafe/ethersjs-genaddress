@@ -1,4 +1,4 @@
-easy way to generate an eth address
+a simple script to generate an eth address utilizing ethers.js
 
   git clone repo
   

@@ -12,4 +12,5 @@ var Wallet = ethers.Wallet;
     console.log('This file has been saved!');
   });
 
+  // Option to comment out fs and console log the pub address, private key and mnemonic 
   // console.log("Address: " + wallet.address + " privateKey: " + wallet.privateKey + " mnemonic: " + wallet.mnemonic);

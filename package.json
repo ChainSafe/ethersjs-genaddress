@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "ethereumjs-wallet": "^0.6.0",
+    "ethers": "^3.0.4",
     "ethjs-account": "^0.1.4",
     "fs": "0.0.1-security",
     "moment": "^2.19.1",

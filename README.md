@@ -8,7 +8,7 @@ a simple script to generate an eth address utilizing ethers.js
   `node genWallet.js`
 
 ## For wallet from mnemonic
-  `node genWallet.js --mnemonic"mnemonic is hard to spell friend"`
+  `node genWallet.js --mnemonic="mnemonic is hard to spell friend"`
 
 © ChainSafe Systems 2017
 
